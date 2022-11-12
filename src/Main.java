@@ -65,7 +65,7 @@ public class Main {
             }
         }
 
-        // Задача 4
+          // Задача 4
         System.out.println("Задача 4");
         for (int i = 0; i < number.length; i++) {
             if (number[i] % 2 == 1){
